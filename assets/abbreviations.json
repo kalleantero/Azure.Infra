@@ -1,0 +1,13 @@
+{
+    "applicationInsights": "appi-",
+    "logAnalyticsWorkspace": "log-",
+    "appServicePlan": "plan-",
+    "webApp": "app-",
+    "sqlServer":"sql-",
+    "sqlDatabase":"sqldb-",
+    "keyVault":"kv-",
+    "serviceBus":"sb-",
+    "cosmosDatabase": "cosmos-",
+    "functionsApp":"func-",
+    "storageAccount":"st"
+  }
