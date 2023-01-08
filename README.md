@@ -17,7 +17,7 @@ I have divided Bicep Modules to four hierarchy levels to enable powerful re-usab
 - Pre-configured Resources
   - Pre-configured Resources (Bicep Modules) are prepared and configured according to company's security and compliance requirements. For example pre-configured App Service Module can force that FTP state is disabled and HTTP 2.0 & HTTPS are always enabled.
   
-# Deployment and testing
+# Deployment
 - Open main.parameters.json and modify parameters
 - Deploy Azure infrastructure with the command: 
 ```
