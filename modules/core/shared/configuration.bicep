@@ -10,6 +10,6 @@ module keyVault '../../preconfigured/configuration/keyVault.bicep' = {
     tags: tags
     location: location
     sku: 'Standard'
-    objectId: 'd9658e9d-8976-4f2f-98d7-4aff0a501324'
+    objectId: '00000000-0000-0000-0000-000000000000'
   }
 }
